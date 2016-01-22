@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Adam Crockett",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acronamy/kitsune_boxes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acronamy/kitsune_boxes/issues"
+  },
+  "homepage": "https://github.com/acronamy/kitsune_boxes#readme"
 }
