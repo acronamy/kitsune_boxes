@@ -1,0 +1,11 @@
+{
+  "name": "kitsune_boxes",
+  "version": "1.0.0",
+  "description": "Customizable regions and boxes allowing users to customize the location of content on pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Crockett",
+  "license": "ISC"
+}
