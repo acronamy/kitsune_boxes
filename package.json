@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "_args": [
     [
       "git+https://github.com/acronamy/kitsune_boxes.git",
@@ -53,12 +54,30 @@
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "readmeFilename": "readme.md",
+=======
+  "name": "kitsune_boxes",
+  "version": "1.0.0",
+  "description": "Customizable regions and boxes allowing users to customize the location of content on pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Crockett",
+  "license": "ISC",
+>>>>>>> 8e41aa7229b9f2ce7f32c35dab884fe4e3c57a0d
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acronamy/kitsune_boxes.git"
   },
+<<<<<<< HEAD
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "version": "1.0.0"
+=======
+  "bugs": {
+    "url": "https://github.com/acronamy/kitsune_boxes/issues"
+  },
+  "homepage": "https://github.com/acronamy/kitsune_boxes#readme"
+>>>>>>> 8e41aa7229b9f2ce7f32c35dab884fe4e3c57a0d
 }
